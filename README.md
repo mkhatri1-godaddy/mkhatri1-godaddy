@@ -1,12 +1,22 @@
 ## 👀 Why are you stalking me?
 
-So… you’ve scrolled all the way here. Curious, aren’t you? 😏
+Oh hey... didn't expect company. What brings you here?
 
-🐛 Bugs? Fixed. Deployed. Logged.  
-🔧 Code? Runs smooth. Looks cleaner than my weekend plans.  
-🧐 Weird flex: I review my own PRs… and leave comments like “Who wrote this genius?”  
-🛠️ Stack Overflow? Only for helping others now 😌  
-⚙️ Incidents? Never met her.
-⭐ Since you're here... star something before I start linting your profile.
+🕵️‍♂️ **Looking for bugs?**  
+→ Already fixed, deployed, and celebrated with coffee. You're late. 🐛🚫☕
 
-It was all the flex — I’m just a developer trying to keep `main` green. 😇
+🙌 **Here to praise my code?**  
+→ Aww, stop it... actually, don’t. Keep going. 😌✨
+
+🔓 **Trying to uncover my dev secrets?**  
+→ Spoiler: It's 90% caffeine, 10% Googling, and 110% deleting `console.log()` before committing. 🔍🧃⌨️
+
+👓 **Reviewing my code?**  
+→ Bold move. I already reviewed it myself and left a `LGTM 🚀` on my own PR. Twice. 😎🫡
+
+⭐ **Since you're lurking this hard...**  
+→ At least leave a star. It’s like a digital handshake. Or a high-five. Or a hug. Your call.
+
+---
+
+That’s all the flex — I'm just a chill dev trying to keep `main` green, the logs clean, and the bugs scared. 😇💻
